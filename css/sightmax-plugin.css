@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.system-tooltip-wrap { float:left; }
+.system-tooltip-box { border-left:1px solid #ccc; float:left; line-height:16px; margin-left:5px; padding-left:5px; width:180px; }
+
+#row_sightmax_sightmax_general_enabled_comment{width:355px;}
+
+
+#row_sightmax_sightmax_general_enabled_comment  a{
+height: 511px;
+/*display: none;*/
+text-decoration:none;
+background:transparent url(../images/sight_max_operator.gif) no-repeat scroll 0 0;
+display:block;
+float:left;
+height:128px;
+margin:0 10px 10px 0;
+width:128px;
+clear:right;
+}
+
+#row_sightmax_sightmax_general_enabled_comment  p{
+	margin-top: 2px;
+}
